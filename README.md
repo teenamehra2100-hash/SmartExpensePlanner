@@ -1,4 +1,4 @@
-# Smart Expense Intelligence & Budget Planner
+# Smart Expense & Planner
 
 A full-stack, personal finance web application that allows users to track income and expenses, set category budgets, visualize spending patterns, and predict future expenses using Machine Learning. 
 
